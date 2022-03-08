@@ -1,16 +1,43 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="250">
 
-<!--
-**ycanga/ycanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Emre.
 
-Here are some ideas to get you started:
+## Web Developer | Computer Programmer | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+### Follow Me
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/computer.svg" align="left" />][book]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
+<br />
+
+### Tech I use
+
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />
+
+<br />
+<br />
+
+
+<details>
+<summary>Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=zeus-cp&theme=radical" >
+</details>
+
+<details>
+<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus-cp&layout=radical" >
+</details>
+
+[book]: https://4lphasoftware.com
+[instagram]: https://instagram.com/_zeus_cp
+[linkedin]: https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/
+
