@@ -29,12 +29,12 @@
 
 <details>
 <summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=zeus-cp&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
 </details>
 
 <details>
 <summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus-cp&layout=radical" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" >
 </details>
 
 [book]: https://4lphasoftware.com
