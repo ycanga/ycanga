@@ -10,7 +10,7 @@
 ### Follow Me
 
 [<img  width="22" src="favicon.ico" align="left" />][book]
-[<img color="#fff" width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
@@ -37,7 +37,7 @@
 | 5B  | [so_long](../../../so_long)                 | ✅110  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap](../../../Push_swap)             | 🔒  |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 7   | [push_swap](../../../push_swap)             | 🔒  |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat]                     | 🔒      |
 
