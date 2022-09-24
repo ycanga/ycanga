@@ -31,15 +31,15 @@
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)               | ✅100  |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
 | 2   | [Born2beroot]                               | ✅100  |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../Printf)                | ✅100  |   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
+| 3   | [ft_printf](../../../ft_printf)                | ✅100  |   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get-next-line)     | ✅100  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | [so_long](../../../so_long)                 | ✅110  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | [minitalk](../../../Mini-Talk)              | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
+| 6A  | [minitalk](../../../Minitalk)              | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../Push_swap)             | 🔒  |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | 🔒      |
+| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat]                     | 🔒      |
 
 
 <details>
