@@ -24,6 +24,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />
 
 <br />
+[![miskirik's 42 stats](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
 <br />
 
 ## 42cursus Progress 💪🏻
