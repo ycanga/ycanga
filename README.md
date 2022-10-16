@@ -38,7 +38,7 @@
 | 5B  | [so_long](../../../so_long)                 | ✅110  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap](../../../push_swap)             | 🔒  |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 7   | [push_swap](../../../push_swap)             | ✅100  |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat]                     | 🔒      |
 
