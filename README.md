@@ -30,6 +30,9 @@
 <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
 
+<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" >
+
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   
 | :-: | :------------------------------------------ | :----: | 
@@ -50,8 +53,7 @@
 </details>
 
 <details>
-<summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" >
+
 </details>
 
 [book]: https://4lphasoftware.com
