@@ -38,10 +38,10 @@
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
 
 
-
-<details>
 <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
+<details>
+
 </details>
 
 <details>
