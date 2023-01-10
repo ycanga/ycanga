@@ -27,6 +27,9 @@
 <br>
 <br>
 
+<summary>Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
+
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   
 | :-: | :------------------------------------------ | :----: | 
@@ -41,8 +44,7 @@
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
 
 
-<summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
+
 <details>
 
 </details>
