@@ -35,16 +35,6 @@
 
 
 
-
-
-<details>
-
-</details>
-
-<details>
-
-</details>
-
 [book]: https://4lphasoftware.com
 [instagram]: https://instagram.com/_zeus_cp
 [linkedin]: https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/
