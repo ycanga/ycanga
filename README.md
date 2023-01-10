@@ -32,7 +32,7 @@
 <br>
 <br>
 <div>
-<div align="left">
+<div align="center">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
