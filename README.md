@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<hr>
+<hr align="center">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
