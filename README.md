@@ -40,6 +40,7 @@
 <br>
 <br>
 <hr align="center">
+<div>
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
@@ -54,7 +55,7 @@
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
 
-
+</div>
 [book]: https://4lphasoftware.com
 [instagram]: https://instagram.com/_zeus_cp
 [linkedin]: https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/
