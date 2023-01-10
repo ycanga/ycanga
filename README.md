@@ -48,16 +48,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
 
-
-<br>
-<br>
-<br><br>
-<br>
-<br><br>
-<br>
-<br><br>
-<br>
-<br>
 <hr align="center">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical">
