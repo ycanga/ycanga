@@ -32,7 +32,7 @@
 
 <br>
 <br>
-<div>
+<br>
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   
 | :-: | :------------------------------------------ | :----: | 
@@ -45,7 +45,7 @@
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
-</div>
+
 
 [book]: https://4lphasoftware.com
 [instagram]: https://instagram.com/_zeus_cp
