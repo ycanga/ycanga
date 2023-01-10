@@ -47,7 +47,7 @@
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right"><div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical"><div>
 <div>
   
 <hr align="center">
