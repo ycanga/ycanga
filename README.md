@@ -9,6 +9,10 @@
 
 ### Follow Me
 
+[book]: https://4lphasoftware.com
+[instagram]: https://instagram.com/_zeus_cp
+[linkedin]: https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/
+
 [<img  width="22" src="favicon.ico" align="left" />][book]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
