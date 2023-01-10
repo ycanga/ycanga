@@ -31,20 +31,7 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" align="left">
 
-<br>
-<br>
-<br><br>
-<br>
-<br><br>
-<br>
-<br><br>
-<br>
-<br>
-<hr align="center">
-<div align="center">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
@@ -58,6 +45,22 @@
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
+
+
+<br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br>
+<hr align="center">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical">
 
 </div>
 
