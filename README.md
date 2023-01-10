@@ -33,6 +33,7 @@
 <br>
 <div>
 <div align="center">
+ <div align="left">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
@@ -46,7 +47,7 @@
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical"><div>
 <div>
   
