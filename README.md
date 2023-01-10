@@ -32,7 +32,7 @@
 <br>
 <br>
 <div>
-<div align="center">
+<div align="center">asdsd
  <div align="left">
 ## 42cursus Progress 💪🏻
 
@@ -47,7 +47,7 @@
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
-</div>asdsd
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right"></div>
 </div>
   
