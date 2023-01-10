@@ -32,8 +32,9 @@
 <br>
 <br>
 <div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
- <div align="left">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
+<div align="left">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
