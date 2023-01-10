@@ -46,8 +46,8 @@
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
 | 6B  | pipex                                       | 🔒     | 
 | 7   | [push_swap](../../../push_swap)             | ✅100  | 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right"><div>
 <div>
   
 <hr align="center">
