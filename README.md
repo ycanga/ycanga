@@ -32,8 +32,13 @@
 
 <br>
 <br>
+<br><br>
 <br>
-
+<br><br>
+<br>
+<br><br>
+<br>
+<br>
 <hr align="center">
 ## 42cursus Progress 💪🏻
 
