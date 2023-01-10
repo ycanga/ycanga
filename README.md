@@ -40,7 +40,7 @@
 <br>
 <br>
 <hr align="center">
-<div>
+<div align="center">
 ## 42cursus Progress 💪🏻
 
 | No  | Project                                     | Status |   
