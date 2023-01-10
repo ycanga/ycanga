@@ -26,11 +26,25 @@
 
 <br>
 <br>
-<br>s
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" align="left">
 
+<br>
+<br>
 
+## 42cursus Progress 💪🏻
+| No  | Project                                     | Status |   
+| :-: | :------------------------------------------ | :----: | 
+| 1   | [Libft](../../../libft)                         | ✅100  |  
+| 2   | [Born2beroot]                               | ✅100  |  
+| 3   | [ft_printf](../../../ft_printf)                | ✅100  | 
+| 4   | [get_next_line](../../../get-next-line)     | ✅100  |  
+| 5A  | FdF                                         | 🔒     |  
+| 5B  | [so_long](../../../so_long)                 | ✅110  | 
+| 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
+| 6B  | pipex                                       | 🔒     | 
+| 7   | [push_swap](../../../push_swap)             | ✅100  | 
 
 
 [book]: https://4lphasoftware.com
