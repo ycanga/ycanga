@@ -28,10 +28,10 @@
 <br>
 
 <summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" align="left">
 
 <summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
 
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   
