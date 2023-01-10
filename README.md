@@ -27,10 +27,8 @@
 <br>
 <br>
 
-<summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical" align="left">
 
-<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
 
 
