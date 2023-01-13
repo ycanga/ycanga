@@ -39,8 +39,8 @@
 
 | No  | Project                                     | Status |   
 | :-: | :------------------------------------------ | :----: | 
-| 1   | [Libft](../../../libft)                         | ✅100  | 
-| 4   | [get_next_line](../../../get-next-line)     | ✅100  |  
+| 1   | [Libft](../../../libft)                         | ✅125  | 
+| 4   | [get_next_line](../../../get-next-line)     | ✅125  |  
 | 5A  | FdF                                         | 🔒     |  
 | 5B  | [so_long](../../../so_long)                 | ✅110  | 
 | 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
