@@ -31,6 +31,12 @@
 <br>
 <br>
 <br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ycanga/count.svg" />
+</p>
+
 <div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
