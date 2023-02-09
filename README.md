@@ -9,13 +9,9 @@
 
 ### Follow Me
 
-[book]: https://4lphasoftware.com
-[instagram]: https://instagram.com/_zeus_cp
-[linkedin]: https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/
-
-[<img  width="22" src="favicon.ico" align="left" />][book]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<a href="https://4lphasoftware.com"><img  width="22" src="favicon.ico" align="left" /></a>
+<a href="https://instagram.com/_ycanga"><img width="22" align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png"></a>
+<a href="https://www.linkedin.com/in/yunus-emre-can%C4%9Fa-74195a211/"><img width="22" align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"></a>
 
 <br />
 
