@@ -35,33 +35,11 @@
 <br>
 <br>
 <br>
+<hr align="center">
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/ycanga/count.svg" />
+  </p>
 
-<div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycanga&layout=radical" align="right">
-<div align="left">
-## 42cursus Progress 💪🏻
-
-| No  | Project                                     | Status |   
-| :-: | :------------------------------------------ | :----: | 
-| 1   | [Libft](../../../libft)                         | ✅125  | 
-| 4   | [get_next_line](../../../get-next-line)     | ✅125  |  
-| 5A  | FdF                                         | 🔒     |  
-| 5B  | [so_long](../../../so_long)                 | ✅110  | 
-| 6A  | [minitalk](../../../Minitalk)              | ✅115  | 
-| 6B  | pipex                                       | 🔒     | 
-| 7   | [push_swap](../../../push_swap)             | ✅100  | 
-</div>
-</div>
-</div>
   
 <hr align="center">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ycanga&theme=radical">
-
-</div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ycanga/count.svg" />
-</p>
-
